@@ -1,0 +1,5 @@
+/__MACOSX/*
+/dist/*
+/node_modules/*
+/package_local.json
+/package-lock.json
